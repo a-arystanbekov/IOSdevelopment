@@ -1,0 +1,378 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 110;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F8ABA09330AF333100BCF13D /* moneytrees.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA09230AF333100BCF13D /* moneytrees.mp3 */; };
+		F8ABA09530AF335300BCF13D /* reflections.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA09430AF335300BCF13D /* reflections.mp3 */; };
+		F8ABA09730AF335A00BCF13D /* sweater.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA09630AF335A00BCF13D /* sweater.mp3 */; };
+		F8ABA09930AF336200BCF13D /* heatwaves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA09830AF336200BCF13D /* heatwaves.mp3 */; };
+		F8ABA09B30AF336900BCF13D /* whatislove.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA09A30AF336900BCF13D /* whatislove.mp3 */; };
+		F8ABA0A330B039BF00BCF13D /* 505.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA0A230B039BF00BCF13D /* 505.mp3 */; };
+		F8ABA0A530B03B9100BCF13D /* KnockinHeavenDoor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA0A430B03B9100BCF13D /* KnockinHeavenDoor.mp3 */; };
+		F8ABA0A730B03C3C00BCF13D /* Doubt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA0A630B03C3C00BCF13D /* Doubt.mp3 */; };
+		F8ABA0A930B03CD400BCF13D /* LoveMeNot.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA0A830B03CD400BCF13D /* LoveMeNot.mp3 */; };
+		F8ABA0AB30B03EBF00BCF13D /* mockingbird.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F8ABA0AA30B03EBF00BCF13D /* mockingbird.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F8ABA07A30AF32EF00BCF13D /* lab8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lab8.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8ABA09230AF333100BCF13D /* moneytrees.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moneytrees.mp3; sourceTree = "<group>"; };
+		F8ABA09430AF335300BCF13D /* reflections.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = reflections.mp3; sourceTree = "<group>"; };
+		F8ABA09630AF335A00BCF13D /* sweater.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sweater.mp3; sourceTree = "<group>"; };
+		F8ABA09830AF336200BCF13D /* heatwaves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = heatwaves.mp3; sourceTree = "<group>"; };
+		F8ABA09A30AF336900BCF13D /* whatislove.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = whatislove.mp3; sourceTree = "<group>"; };
+		F8ABA0A230B039BF00BCF13D /* 505.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 505.mp3; sourceTree = "<group>"; };
+		F8ABA0A430B03B9100BCF13D /* KnockinHeavenDoor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = KnockinHeavenDoor.mp3; sourceTree = "<group>"; };
+		F8ABA0A630B03C3C00BCF13D /* Doubt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Doubt.mp3; sourceTree = "<group>"; };
+		F8ABA0A830B03CD400BCF13D /* LoveMeNot.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = LoveMeNot.mp3; sourceTree = "<group>"; };
+		F8ABA0AA30B03EBF00BCF13D /* mockingbird.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mockingbird.mp3; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		F8ABA08C30AF32EF00BCF13D /* Exceptions for "MusicPlayer" folder in "lab8" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = F8ABA07930AF32EF00BCF13D /* lab8 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F8ABA07C30AF32EF00BCF13D /* MusicPlayer */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				F8ABA08C30AF32EF00BCF13D /* Exceptions for "MusicPlayer" folder in "lab8" target */,
+			);
+			path = MusicPlayer;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F8ABA07730AF32EF00BCF13D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			files = (
+			);
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F8ABA07130AF32EF00BCF13D = {
+			isa = PBXGroup;
+			children = (
+				F8ABA07C30AF32EF00BCF13D /* MusicPlayer */,
+				F8ABA09230AF333100BCF13D /* moneytrees.mp3 */,
+				F8ABA09430AF335300BCF13D /* reflections.mp3 */,
+				F8ABA09630AF335A00BCF13D /* sweater.mp3 */,
+				F8ABA09830AF336200BCF13D /* heatwaves.mp3 */,
+				F8ABA09A30AF336900BCF13D /* whatislove.mp3 */,
+				F8ABA0A230B039BF00BCF13D /* 505.mp3 */,
+				F8ABA0A430B03B9100BCF13D /* KnockinHeavenDoor.mp3 */,
+				F8ABA0A630B03C3C00BCF13D /* Doubt.mp3 */,
+				F8ABA0A830B03CD400BCF13D /* LoveMeNot.mp3 */,
+				F8ABA0AA30B03EBF00BCF13D /* mockingbird.mp3 */,
+				F8ABA07B30AF32EF00BCF13D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F8ABA07B30AF32EF00BCF13D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F8ABA07A30AF32EF00BCF13D /* lab8.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F8ABA07930AF32EF00BCF13D /* lab8 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F8ABA08D30AF32EF00BCF13D /* Build configuration list for PBXNativeTarget "lab8" */;
+			buildPhases = (
+				F8ABA07630AF32EF00BCF13D /* Sources */,
+				F8ABA07730AF32EF00BCF13D /* Frameworks */,
+				F8ABA07830AF32EF00BCF13D /* Resources */,
+			);
+			buildRules = (
+			);
+			fileSystemSynchronizedGroups = (
+				F8ABA07C30AF32EF00BCF13D /* MusicPlayer */,
+			);
+			name = lab8;
+			productName = MusicPlayer;
+			productReference = F8ABA07A30AF32EF00BCF13D /* lab8.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F8ABA07230AF32EF00BCF13D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2700;
+				LastUpgradeCheck = 2700;
+				TargetAttributes = {
+					F8ABA07930AF32EF00BCF13D = {
+						CreatedOnToolsVersion = 27.0;
+					};
+				};
+			};
+			buildConfigurationList = F8ABA07530AF32EF00BCF13D /* Build configuration list for PBXProject "lab8" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F8ABA07130AF32EF00BCF13D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F8ABA07B30AF32EF00BCF13D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F8ABA07930AF32EF00BCF13D /* lab8 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F8ABA07830AF32EF00BCF13D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			files = (
+				F8ABA09530AF335300BCF13D /* reflections.mp3 in Resources */,
+				F8ABA0AB30B03EBF00BCF13D /* mockingbird.mp3 in Resources */,
+				F8ABA09B30AF336900BCF13D /* whatislove.mp3 in Resources */,
+				F8ABA09730AF335A00BCF13D /* sweater.mp3 in Resources */,
+				F8ABA09330AF333100BCF13D /* moneytrees.mp3 in Resources */,
+				F8ABA0A730B03C3C00BCF13D /* Doubt.mp3 in Resources */,
+				F8ABA0A330B039BF00BCF13D /* 505.mp3 in Resources */,
+				F8ABA0A530B03B9100BCF13D /* KnockinHeavenDoor.mp3 in Resources */,
+				F8ABA09930AF336200BCF13D /* heatwaves.mp3 in Resources */,
+				F8ABA0A930B03CD400BCF13D /* LoveMeNot.mp3 in Resources */,
+			);
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F8ABA07630AF32EF00BCF13D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			files = (
+			);
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F8ABA08E30AF32EF00BCF13D /* Debug configuration for PBXNativeTarget "lab8" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MusicPlayer/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kbtu.MusicPlayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F8ABA08F30AF32EF00BCF13D /* Release configuration for PBXNativeTarget "lab8" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MusicPlayer/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = kbtu.MusicPlayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F8ABA09030AF32EF00BCF13D /* Debug configuration for PBXProject "lab8" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F8ABA09130AF32EF00BCF13D /* Release configuration for PBXProject "lab8" */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 27.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F8ABA07530AF32EF00BCF13D /* Build configuration list for PBXProject "lab8" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8ABA09030AF32EF00BCF13D /* Debug configuration for PBXProject "lab8" */,
+				F8ABA09130AF32EF00BCF13D /* Release configuration for PBXProject "lab8" */,
+			);
+			defaultConfigurationName = Release;
+		};
+		F8ABA08D30AF32EF00BCF13D /* Build configuration list for PBXNativeTarget "lab8" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F8ABA08E30AF32EF00BCF13D /* Debug configuration for PBXNativeTarget "lab8" */,
+				F8ABA08F30AF32EF00BCF13D /* Release configuration for PBXNativeTarget "lab8" */,
+			);
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F8ABA07230AF32EF00BCF13D /* Project object */;
+	validationLevel = 1;
+}
